@@ -1,3 +1,39 @@
+# WorldCasper2
+
+WorldCasper2 is [Casper 2.x](https://github.com/TryGhost/Casper), [Ghost](https://github.com/TryGhost/Ghost)'s default theme, made translatable into any language.
+
+For example, in _.hbs_ theme templates:
+```
+{{t "Get the latest posts delivered right to your inbox"}}
+```
+
+Currently available languages:
+
+- Brazilian Portuguese (`pt-BR`)
+- Canadian French (`fr-CA`)
+- Chinese (`zh`)
+- Croatian (`hr`)
+- English (`en`)
+- Finnish (`fi`)
+- French (`fr`)
+- German (`de`)
+- Italian (`it`)
+- Lithuanian (`lt`)
+- Norwegian Bokmål (`nb`)
+- Polish (`pl`)
+- Romanian (`ro`)
+- Russian (`ru`)
+- Spanish (`es`)
+- Swedish (`sv`)
+
+The master branch is Casper.
+
+The translatable branch is [i18n-translatable-frontend](https://github.com/juan-g/WorldCasper2/tree/i18n-translatable-frontend).
+
+For Casper 1.4 made translatable, see [WorldCasper1](https://github.com/juan-g/WorldCasper1).
+
+Details in Ghost's blog post [Theme translations and blog localisation](https://dev.ghost.org/theme-translations/).
+
 # Casper
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Casper. If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
